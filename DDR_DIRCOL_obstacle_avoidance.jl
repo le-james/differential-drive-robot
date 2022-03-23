@@ -21,7 +21,7 @@ robotRadius = 0.2
 x0 = [0; 0; 0*pi/180]       # x y θ initial  
 
 # final state conditions
-xr = [3; 3; 45*pi/180]       # x y θ reference
+xr = [3; 3; 180*pi/180]       # x y θ reference
 
 # obstacle position
 obs = [2.5, 2.5]

@@ -4,6 +4,6 @@ Obstacle avoidance DIRCOL trajectory optimization using [IPOPT.jl](https://githu
 
 Using [TrajOptPlots.jl](https://github.com/RoboticExplorationLab/TrajOptPlots.jl) for trajectory visualization.
 
-## Simple trajectroy with obstacle avoidance
+## Simple trajectory with obstacle avoidance
 DDR starts at the orgin and drives to its goal pose while avoiding the red obstacle.
 ![](simple-traj-obs-avoidance.gif)
